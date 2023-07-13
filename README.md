@@ -1,4 +1,4 @@
-# Tea Shop Website
+# Tea Shop Demo
 
 Welcome to the Tea Shop Website repository! This website is designed to showcase a variety of tea products and provide information about the tea shop's mission, featured teas, and locations.
 
